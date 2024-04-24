@@ -15,10 +15,3 @@ import inquirer from "inquirer"
 
 // let result = answer.num2 / (answer.num1 * answer num1)
 // console.log(result)
-
-
-// let answer=await inquirer.prompt({
-    // name:"num1",
-    // type:"number",
-    // message:"enter your first number"
-// })
